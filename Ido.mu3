@@ -25,15 +25,15 @@ http://livegopanel.club:8080/ido7638/@ido6385/19375
 http://livegopanel.club:8080/ido7638/@ido6385/20218
 #EXTINF:-1 tvg-id="CH36" tvg-name="VIP IL: Channel 13 SD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 SD
 http://livegopanel.club:8080/ido7638/@ido6385/3299
-#EXTINF:-1,VIP IL: Channel 20
+#EXTINF:-1 tvg-id="PT92" tvg-name="VIP IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: Channel 20
 http://livegopanel.club:8080/ido7638/@ido6385/3301
 #EXTINF:-1,VIP IL: Channel 23 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/19376
 #EXTINF:-1,VIP IL: Channel 23 HD
 http://livegopanel.club:8080/ido7638/@ido6385/40771
-#EXTINF:-1,VIP IL: Channel 24 FHD
+#EXTINF:-1 tvg-id="TV67" tvg-name="VIP IL: Channel 24 FHD" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Live: Hebrew",VIP IL: Channel 24 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/41254
-#EXTINF:-1,VIP IL: Channel 24
+#EXTINF:-1 tvg-id="TV67" tvg-name="VIP IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Live: Hebrew",VIP IL: Channel 24
 http://livegopanel.club:8080/ido7638/@ido6385/3303
 #EXTINF:-1,VIP IL: Yam Tihoni
 http://livegopanel.club:8080/ido7638/@ido6385/12031
