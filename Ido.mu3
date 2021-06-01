@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1,===== VIP Hebrew's =====
 http://livegopanel.club:8080/ido7638/@ido6385/5962
-#EXTINF:-1,VIP IL: Kan11 FHD
+#EXTINF:-1 tvg-id="CH30" tvg-name="VIP IL: Kan11 FHD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",VIP IL: Kan11 FHD#EXTINF:-1 tvg-id="CH30" tvg-name="VIP IL: Kan11 FHD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",VIP IL: Kan11 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/18131
-#EXTINF:-1,VIP IL: Kan11 HD
+#EXTINF:-1 tvg-id="CH30" tvg-name="VIP IL: Kan11 FHD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",VIP IL: Kan11 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/3298
-#EXTINF:-1,VIP IL: Makan HD
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="VIP IL: Makan HD" tvg-logo="https://i.ibb.co/Y8PdzWz/makan33.jpg" group-title="Live: Hebrew",VIP IL: Makan HD
 http://livegopanel.club:8080/ido7638/@ido6385/40335
-#EXTINF:-1,VIP IL: Makan
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="VIP IL: Makan HD" tvg-logo="https://i.ibb.co/Y8PdzWz/makan33.jpg" group-title="Live: Hebrew",VIP IL: Makan HD
 http://livegopanel.club:8080/ido7638/@ido6385/18132
 ##EXTINF:-1 tvg-id="TV50" tvg-name="VIP IL: Channel 9 FHD" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",VIP IL: Channel 9 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/40334
@@ -35,7 +35,7 @@ http://livegopanel.club:8080/ido7638/@ido6385/40771
 http://livegopanel.club:8080/ido7638/@ido6385/41254
 #EXTINF:-1 tvg-id="TV67" tvg-name="VIP IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Live: Hebrew",VIP IL: Channel 24
 http://livegopanel.club:8080/ido7638/@ido6385/3303
-#EXTINF:-1,VIP IL: Yam Tihoni
+#EXTINF:-1 tvg-id="PT72" tvg-name="VIP IL: Yam Tihoni" tvg-logo="https://image.ibb.co/dmS7T7/yamtihoni.png" group-title="Live: Hebrew",VIP IL: Yam Tihoni
 http://livegopanel.club:8080/ido7638/@ido6385/12031
 #EXTINF:-1,VIP IL: Kan33
 http://livegopanel.club:8080/ido7638/@ido6385/14595
