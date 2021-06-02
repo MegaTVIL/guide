@@ -65,17 +65,17 @@ http://livegopanel.club:8080/ido7638/@ido6385/5957
 http://livegopanel.club:8080/ido7638/@ido6385/21899
 #EXTINF:-1 tvg-id="CH09" tvg-name="VIP IL: YES SPORT3 HD" tvg-logo="https://i.ibb.co/PYkbPYX/sport3.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT3 HD
 http://livegopanel.club:8080/ido7638/@ido6385/11471
-#EXTINF:-1,VIP IL: YES SPORT4 FHD
+#EXTINF:-1 tvg-id="CH11" tvg-name="VIP IL: YES SPORT4 FHD" tvg-logo="https://i.ibb.co/m9PPMbd/sport4.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT4 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/21900
-#EXTINF:-1,VIP IL: YES SPORT4 HD
+#EXTINF:-1 tvg-id="CH11" tvg-name="VIP IL: YES SPORT4 HD" tvg-logo="https://i.ibb.co/m9PPMbd/sport4.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT4 HD
 http://livegopanel.club:8080/ido7638/@ido6385/11472
-#EXTINF:-1 tvg-id="CH55" tvg-name="VIP IL: Sport 5 4K" tvg-logo="https://i.ibb.co/hZZqy5z/sport4K.png" group-title="Live: Hebrew",VIP IL: Sport 5 4K
+#EXTINF:-1 tvg-id="CH55" tvg-name="VIP IL: Sport 5 4K" tvg-logo="https://i.ibb.co/qsgWSmR/sport4K.png" group-title="Live: Hebrew",VIP IL: Sport 5 4K
 http://livegopanel.club:8080/ido7638/@ido6385/50637
-#EXTINF:-1,VIP IL: Sport 5 FHD
+#EXTINF:-1 tvg-id="PT26" tvg-name="VIP IL: Sport 5 FHD" tvg-logo="https://i.ibb.co/zHTjGnv/sport5fhd.png" group-title="Live: Hebrew",VIP IL: Sport 5 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/20416
-#EXTINF:-1,VIP IL: Sport 5 HD
+#EXTINF:-1 tvg-id="PT26" tvg-name="VIP IL: Sport 5 HD" tvg-logo="https://i.ibb.co/zHTjGnv/sport5fhd.png" group-title="Live: Hebrew",VIP IL: Sport 5 HD
 http://livegopanel.club:8080/ido7638/@ido6385/19813
-#EXTINF:-1,VIP IL: Sport 5 SD
+#EXTINF:-1 tvg-id="PT26" tvg-name="VIP IL: Sport 5 SD" tvg-logo="https://i.ibb.co/zHTjGnv/sport5fhd.png" group-title="Live: Hebrew",VIP IL: Sport 5 SD
 http://livegopanel.club:8080/ido7638/@ido6385/41502
 #EXTINF:-1 tvg-id="PT62" tvg-name="VIP IL: Sport 5+ Live HD" tvg-logo="https://static.epg.best/il/5PlusLive.il.png" group-title="Live: Hebrew",VIP IL: Sport 5+ Live HD
 http://livegopanel.club:8080/ido7638/@ido6385/25825
