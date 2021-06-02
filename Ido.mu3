@@ -57,13 +57,13 @@ http://livegopanel.club:8080/ido7638/@ido6385/19104
 http://livegopanel.club:8080/ido7638/@ido6385/20415
 #EXTINF:-1 tvg-id="PT53" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="https://i.ibb.co/QvSqYF9/sport1.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT1 HD
 http://livegopanel.club:8080/ido7638/@ido6385/5958
-#EXTINF:-1,VIP IL: YES SPORT2 FHD
+#EXTINF:-1 tvg-id="PT98" tvg-name="VIP IL: YES SPORT2 FHD" tvg-logo="https://i.ibb.co/H48pS1S/sport2.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT2 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/21901
-#EXTINF:-1,VIP IL: YES SPORT2 HD
+#EXTINF:-1 tvg-id="PT98" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="https://i.ibb.co/H48pS1S/sport2.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT2 HD
 http://livegopanel.club:8080/ido7638/@ido6385/5957
-#EXTINF:-1,VIP IL: YES SPORT3 FHD
+#EXTINF:-1 tvg-id="CH09" tvg-name="VIP IL: YES SPORT3 FHD" tvg-logo="https://i.ibb.co/PYkbPYX/sport3.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT3 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/21899
-#EXTINF:-1,VIP IL: YES SPORT3 HD
+#EXTINF:-1 tvg-id="CH09" tvg-name="VIP IL: YES SPORT3 HD" tvg-logo="https://i.ibb.co/PYkbPYX/sport3.jpg" group-title="Live: Hebrew",VIP IL: YES SPORT3 HD
 http://livegopanel.club:8080/ido7638/@ido6385/11471
 #EXTINF:-1,VIP IL: YES SPORT4 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/21900
