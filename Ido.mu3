@@ -121,13 +121,13 @@ http://livegopanel.club:8080/ido7638/@ido6385/45721
 http://livegopanel.club:8080/ido7638/@ido6385/16513
 #EXTINF:-1 tvg-id="YSA2" tvg-name="VIP IL: YES Movies Action HD" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Action HD
 http://livegopanel.club:8080/ido7638/@ido6385/25829
-#EXTINF:-1,VIP IL: YES Movies Kids FHD
+#EXTINF:-1 tvg-id="YSA4" tvg-name="VIP IL: YES Movies Kids FHD" group-title="Live: Hebrew",VIP IL: YES Movies Kids FHD
 http://livegopanel.club:8080/ido7638/@ido6385/45718
-#EXTINF:-1,VIP IL: YES Movies Drama FHD
+#EXTINF:-1 tvg-id="YSA1" tvg-name="VIP IL: YES Movies Drama FHD" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Drama FHD
 http://livegopanel.club:8080/ido7638/@ido6385/45719
-#EXTINF:-1,VIP IL: YES Movies Drama HD [Multi-Sub]
+#EXTINF:-1 tvg-id="YSA1" tvg-name="VIP IL: YES Movies Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD [Multi-Sub]
 http://livegopanel.club:8080/ido7638/@ido6385/16512
-#EXTINF:-1,VIP IL: YES Movies Drama HD
+#EXTINF:-1 tvg-id="YSA1" tvg-name="VIP IL: YES Movies Drama HD" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",VIP IL: YES Movies Drama HD
 http://livegopanel.club:8080/ido7638/@ido6385/25828
 #EXTINF:-1,VIP IL: YES Movies Comedy FHD
 http://livegopanel.club:8080/ido7638/@ido6385/45720
