@@ -87,11 +87,11 @@ http://livegopanel.club:8080/ido7638/@ido6385/5955
 http://livegopanel.club:8080/ido7638/@ido6385/25826
 #EXTINF:-1 tvg-id="CH54" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Live: Hebrew",VIP IL: Sport 5 Plus
 http://livegopanel.club:8080/ido7638/@ido6385/22315
-#EXTINF:-1 tvg-id="CH54" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Live: Hebrew",VIP IL: Sport 5 Plus
+#EXTINF:-1 tvg-id="CH54" tvg-name="VIP IL: Sport 5 Plus" tvg-logo="https://i.ibb.co/nCF6xSG/sportfox.png" group-title="Live: Hebrew",VIP IL: Sport 5 Plus
 http://livegopanel.club:8080/ido7638/@ido6385/12823
 #EXTINF:-1 tvg-id="MU03" tvg-name="VIP IL: Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Live: Hebrew",VIP IL: Sport 5 Gold
 http://livegopanel.club:8080/ido7638/@ido6385/11725
-#EXTINF:-1,VIP IL: Fox Sport HD
+#EXTINF:-1 tvg-id="FoxSport.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="https://static.epg.best/il/FoxSport.il.png" group-title="Live: Hebrew",VIP IL: Fox Sport HD
 http://livegopanel.club:8080/ido7638/@ido6385/3341
 #EXTINF:-1,VIP IL: Eurosport 1 HD
 http://livegopanel.club:8080/ido7638/@ido6385/19377
