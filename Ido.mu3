@@ -143,13 +143,13 @@ http://livegopanel.club:8080/ido7638/@ido6385/26119
 http://livegopanel.club:8080/ido7638/@ido6385/16522
 #EXTINF:-1,VIP IL: YES Wiz
 http://livegopanel.club:8080/ido7638/@ido6385/22644
-#EXTINF:-1,VIP IL: HOT 3 HD
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="VIP IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Live: Hebrew",VIP IL: HOT 3 HD
 http://livegopanel.club:8080/ido7638/@ido6385/6106
-#EXTINF:-1,VIP IL: HOT 8 HD
+#EXTINF:-1 tvg-id="channel8.il" tvg-name="VIP IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Live: Hebrew",VIP IL: HOT 8 HD
 http://livegopanel.club:8080/ido7638/@ido6385/8141
 #EXTINF:-1,VIP IL: HOT Senior
 http://livegopanel.club:8080/ido7638/@ido6385/41501
-#EXTINF:-1,VIP IL: HOT ZONE HD
+#EXTINF:-1 tvg-id="HotZone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Live: Hebrew",VIP IL: HOT ZONE HD
 http://livegopanel.club:8080/ido7638/@ido6385/6107
 #EXTINF:-1,VIP IL: HOT HBO FHD
 http://livegopanel.club:8080/ido7638/@ido6385/41504
