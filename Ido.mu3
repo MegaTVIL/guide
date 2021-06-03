@@ -109,11 +109,11 @@ http://livegopanel.club:8080/ido7638/@ido6385/45725
 http://livegopanel.club:8080/ido7638/@ido6385/16518
 #EXTINF:-1 tvg-id="YESP" tvg-name="VIP IL: YES TV Comedy HD" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="Live: Hebrew",VIP IL: YES TV Comedy HD
 http://livegopanel.club:8080/ido7638/@ido6385/25837
-#EXTINF:-1,VIP IL: YES TV Drama FHD
+#EXTINF:-1 tvg-id="YESU" tvg-name="VIP IL: YES TV Drama FHD" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Live: Hebrew",VIP IL: YES TV Drama FHD
 http://livegopanel.club:8080/ido7638/@ido6385/45722
-#EXTINF:-1,VIP IL: YES TV Drama HD [Multi-Sub]
+#EXTINF:-1 tvg-id="YESU" tvg-name="VIP IL: YES TV Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Live: Hebrew",VIP IL: YES TV Drama HD [Multi-Sub]
 http://livegopanel.club:8080/ido7638/@ido6385/16520
-#EXTINF:-1,VIP IL: YES TV Drama HD
+#EXTINF:-1 tvg-id="YESU" tvg-name="VIP IL: YES TV Drama HD" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Live: Hebrew",VIP IL: YES TV Drama HD
 http://livegopanel.club:8080/ido7638/@ido6385/25835
 #EXTINF:-1,VIP IL: YES Movies Action FHD
 http://livegopanel.club:8080/ido7638/@ido6385/45721
