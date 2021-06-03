@@ -177,7 +177,7 @@ http://livegopanel.club:8080/ido7638/@ido6385/25823
 http://livegopanel.club:8080/ido7638/@ido6385/6109
 #EXTINF:-1,VIP IL: HOT Cinema 4 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/64340
-#EXTINF:-1,VIP IL: HOT Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.il" tvg-name="VIP IL: HOT Comedy Central HD" tvg-logo="https://image.ibb.co/m9EnT7/hotcomedycentralhd.png" group-title="Live: Hebrew",VIP IL: HOT Comedy Central HD
 http://livegopanel.club:8080/ido7638/@ido6385/6104
 #EXTINF:-1,VIP IL: HOT Senior
 http://livegopanel.club:8080/ido7638/@ido6385/41501
