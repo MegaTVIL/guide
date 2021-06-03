@@ -161,9 +161,11 @@ http://livegopanel.club:8080/ido7638/@ido6385/23802
 http://livegopanel.club:8080/ido7638/@ido6385/6108
 #EXTINF:-1 tvg-id="HotMovies1.il" tvg-name="VIP IL: HOT Cinema 1 FHD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 1 FHD
 http://livegopanel.club:8080/ido7638/@ido6385/64397
-#EXTINF:-1,VIP IL: HOT Cinema 2
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="VIP IL: HOT Cinema 2 FHD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png group-title="Live: Hebrew",VIP IL: HOT Cinema 2 FHD
+http://livegopanel.club:8080/ido7638/@ido6385/64338
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="VIP IL: HOT Cinema 2" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 2
 http://livegopanel.club:8080/ido7638/@ido6385/25821
-#EXTINF:-1,VIP IL: HOT Cinema 2 HD
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="VIP IL: HOT Cinema 2 HD" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Live: Hebrew",VIP IL: HOT Cinema 2 HD
 http://livegopanel.club:8080/ido7638/@ido6385/5960
 #EXTINF:-1,VIP IL: HOT Cinema 3
 http://livegopanel.club:8080/ido7638/@ido6385/25822
