@@ -137,9 +137,9 @@ http://livegopanel.club:8080/ido7638/@ido6385/25832
 http://livegopanel.club:8080/ido7638/@ido6385/16519
 #EXTINF:-1 tvg-id="YSAT" tvg-name="VIP IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD
 http://livegopanel.club:8080/ido7638/@ido6385/25834
-#EXTINF:-1,VIP IL: YES Cinema HD [Multi-Sub]
+#EXTINF:-1 tvg-id="YSAU" tvg-name="VIP IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD [Multi-Sub]
 http://livegopanel.club:8080/ido7638/@ido6385/26119
-#EXTINF:-1,VIP IL: YES Cinema HD
+#EXTINF:-1 tvg-id="YSAU" tvg-name="VIP IL: YES Cinema HD" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD
 http://livegopanel.club:8080/ido7638/@ido6385/16522
 #EXTINF:-1,VIP IL: YES Wiz
 http://livegopanel.club:8080/ido7638/@ido6385/22644
