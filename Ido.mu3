@@ -89,9 +89,9 @@ http://livegopanel.club:8080/ido7638/@ido6385/12823
 http://livegopanel.club:8080/ido7638/@ido6385/11725
 #EXTINF:-1 tvg-id="FoxSport.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="https://static.epg.best/il/FoxSport.il.png" group-title="Live: Hebrew",VIP IL: Fox Sport HD
 http://livegopanel.club:8080/ido7638/@ido6385/3341
-#EXTINF:-1,VIP IL: Eurosport 1 HD
+#EXTINF:-1 tvg-id="PT39" tvg-name="VIP IL: Eurosport 1 HD" tvg-logo="https://i.ibb.co/3RjRNC3/eurosport1.jpg" group-title="Live: Hebrew",VIP IL: Eurosport 1 HD
 http://livegopanel.club:8080/ido7638/@ido6385/19377
-#EXTINF:-1,VIP IL: Eurosport 2 HD
+#EXTINF:-1 tvg-id="PT39" tvg-name="VIP IL: Eurosport 2 HD" tvg-logo="https://i.ibb.co/558qRwF/eurosport2.jpg" group-title="Live: Hebrew",VIP IL: Eurosport 2 HD
 http://livegopanel.club:8080/ido7638/@ido6385/19379
 #EXTINF:-1,VIP IL: Trace Spôrt Stars
 http://livegopanel.club:8080/ido7638/@ido6385/63091
