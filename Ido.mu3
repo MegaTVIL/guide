@@ -141,14 +141,10 @@ http://livegopanel.club:8080/ido7638/@ido6385/25834
 http://livegopanel.club:8080/ido7638/@ido6385/26119
 #EXTINF:-1 tvg-id="YSAU" tvg-name="VIP IL: YES Cinema HD" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD
 http://livegopanel.club:8080/ido7638/@ido6385/16522
-#EXTINF:-1,VIP IL: YES Wiz
-http://livegopanel.club:8080/ido7638/@ido6385/22644
 #EXTINF:-1 tvg-id="hot3.il" tvg-name="VIP IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Live: Hebrew",VIP IL: HOT 3 HD
 http://livegopanel.club:8080/ido7638/@ido6385/6106
 #EXTINF:-1 tvg-id="channel8.il" tvg-name="VIP IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Live: Hebrew",VIP IL: HOT 8 HD
 http://livegopanel.club:8080/ido7638/@ido6385/8141
-#EXTINF:-1,VIP IL: HOT Senior
-http://livegopanel.club:8080/ido7638/@ido6385/41501
 #EXTINF:-1 tvg-id="HotZone.il" tvg-name="VIP IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Live: Hebrew",VIP IL: HOT ZONE HD
 http://livegopanel.club:8080/ido7638/@ido6385/6107
 #EXTINF:-1 tvg-id="HotHBO.il" tvg-name="VIP IL: HOT HBO FHD" tvg-logo="https://static.epg.best/il/HotHBO.il.png" group-title="Live: Hebrew",VIP IL: HOT HBO FHD
@@ -183,6 +179,10 @@ http://livegopanel.club:8080/ido7638/@ido6385/6109
 http://livegopanel.club:8080/ido7638/@ido6385/64340
 #EXTINF:-1,VIP IL: HOT Comedy Central HD
 http://livegopanel.club:8080/ido7638/@ido6385/6104
+#EXTINF:-1,VIP IL: HOT Senior
+http://livegopanel.club:8080/ido7638/@ido6385/41501
+#EXTINF:-1,VIP IL: YES Wiz
+http://livegopanel.club:8080/ido7638/@ido6385/22644
 #EXTINF:-1,VIP IL: HOT Bidur
 http://livegopanel.club:8080/ido7638/@ido6385/6102
 #EXTINF:-1,VIP IL: HOT Bollywood HD
