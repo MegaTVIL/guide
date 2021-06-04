@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1,===== VIP Hebrew's =====
 http://livegopanel.club:8080/ido7638/@ido99999/5962
-#EXTINF:-1 tvg-id="CH30" tvg-name="כאן11" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",כאן 11
+#EXTINF:-1 tvg-id="CH30" tvg-name="כאן 11 HD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",כאן 11 HD
 http://livegopanel.club:8080/ido7638/@ido99999/18131
-#EXTINF:-1 tvg-id="CH30" tvg-name="VIP IL: Kan11 FHD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",VIP IL: Kan11 FHD
+#EXTINF:-1 tvg-id="CH30" tvg-name="כאן 11 FHD" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Live: Hebrew",כאן 11 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/3298
-##EXTINF:-1 tvg-id="TV50" tvg-name="VIP IL: Channel 9 FHD" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",VIP IL: Channel 9 FHD
+##EXTINF:-1 tvg-id="TV50" tvg-name="ערוץ 9 FHD" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",ערוץ 9 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/40334
-#EXTINF:-1 tvg-id="TV50" tvg-name="VIP IL: Channel 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",VIP IL: Channel 9
+#EXTINF:-1 tvg-id="TV50" tvg-name="ערוץ 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",ערוץ 9
 http://livegopanel.club:8080/ido7638/@ido99999/6105
-#EXTINF:-1 tvg-id="CH34" tvg-name="VIP IL: Channel 12 FHD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 FHD
+#EXTINF:-1 tvg-id="CH34" tvg-name="ערוץ 12 FHD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",ערוץ 12 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/19374
-#EXTINF:-1 tvg-id="CH34" tvg-name="VIP IL: Channel 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 HD
+#EXTINF:-1 tvg-id="CH34" tvg-name="ערוץ 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",ערוץ 12 HD
 http://livegopanel.club:8080/ido7638/@ido99999/16272
-#EXTINF:-1 tvg-id="CH34" tvg-name="VIP IL: Channel 12 SD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",VIP IL: Channel 12 SD
+#EXTINF:-1 tvg-id="CH34" tvg-name="ערוץ 12" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",ערוץ 12
 http://livegopanel.club:8080/ido7638/@ido99999/14596
-#EXTINF:-1 tvg-id="CH36" tvg-name="VIP IL: Channel 13 FHD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 FHD
+#EXTINF:-1 tvg-id="CH36" tvg-name="ערוץ 13 FHD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",ערוץ 13 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/19375
-#EXTINF:-1 tvg-id="CH36" tvg-name="VIP IL: Channel 13 HD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 HD
+#EXTINF:-1 tvg-id="CH36" tvg-name="ערוץ 13 HD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",ערוץ 13 HD
 http://livegopanel.club:8080/ido7638/@ido99999/20218
-#EXTINF:-1 tvg-id="CH36" tvg-name="VIP IL: Channel 13 SD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",VIP IL: Channel 13 SD
+#EXTINF:-1 tvg-id="CH36" tvg-name="ערוץ 13" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Live: Hebrew",ערוץ 13
 http://livegopanel.club:8080/ido7638/@ido99999/3299
 #EXTINF:-1 tvg-id="PT92" tvg-name="VIP IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Live: Hebrew",VIP IL: Channel 20
 http://livegopanel.club:8080/ido7638/@ido99999/3301
