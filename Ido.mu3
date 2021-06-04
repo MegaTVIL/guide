@@ -39,11 +39,11 @@ http://livegopanel.club:8080/ido7638/@ido99999/41078
 http://livegopanel.club:8080/ido7638/@ido99999/16514
 #EXTINF:-1 tvg-id="TR01" tvg-name="" tvg-logo="https://static.epg.best/il/ONE.il.png" group-title="Live: Hebrew",ONE 1 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/21903
-#EXTINF:-1 tvg-id="TR01" tvg-name="ONE 1 FHD" tvg-logo="https://static.epg.best/il/ONE.il.png" group-title="Live: Hebrew",ONE 1 FHD
+#EXTINF:-1 tvg-id="TR01" tvg-name="ONE 1 HD" tvg-logo="https://static.epg.best/il/ONE.il.png" group-title="Live: Hebrew",ONE 1 HD
 http://livegopanel.club:8080/ido7638/@ido99999/5956
 #EXTINF:-1 tvg-id="CH58" tvg-name="ONE 2 FHD" tvg-logo="https://static.epg.best/il/ONE2.il.png" group-title="Live: Hebrew",ONE 2 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/25827
-#EXTINF:-1 tvg-id="CH58" tvg-name="ONE 2 FHD" tvg-logo="https://static.epg.best/il/ONE2.il.png" group-title="Live: Hebrew",ONE 2 FHD
+#EXTINF:-1 tvg-id="CH58" tvg-name="ONE 2 HD" tvg-logo="https://static.epg.best/il/ONE2.il.png" group-title="Live: Hebrew",ONE 2 HD
 http://livegopanel.club:8080/ido7638/@ido99999/19104
 #EXTINF:-1 tvg-id="PT53" tvg-name="YES SPORT1 FHD" tvg-logo="https://i.ibb.co/QvSqYF9/sport1.jpg" group-title="Live: Hebrew",YES SPORT1 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/20415
