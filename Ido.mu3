@@ -133,13 +133,13 @@ http://livegopanel.club:8080/ido7638/@ido99999/16515
 http://livegopanel.club:8080/ido7638/@ido99999/25831
 #EXTINF:-1 tvg-id="YSAT" tvg-name="VIP IL: YES Docu FHD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu FHD
 http://livegopanel.club:8080/ido7638/@ido99999/25832
-#EXTINF:-1 tvg-id="YSAT" tvg-name="VIP IL: YES Docu HD [Multi-Sub]" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD [Multi-Sub]
+#EXTINF:-1 tvg-id="YSAT" tvg-name="yes HD דוקו" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",yes HD דוקו
 http://livegopanel.club:8080/ido7638/@ido99999/16519
-#EXTINF:-1 tvg-id="YSAT" tvg-name="VIP IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",VIP IL: YES Docu HD
+#EXTINF:-1 tvg-id="YSAT" tvg-name="yes HD דוקו" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",yes HD דוקו
 http://livegopanel.club:8080/ido7638/@ido99999/25834
-#EXTINF:-1 tvg-id="YSAU" tvg-name="VIP IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD [Multi-Sub]
+#EXTINF:-1 tvg-id="YSAU" tvg-name="yes ישראלי" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",yes ישראלי
 http://livegopanel.club:8080/ido7638/@ido99999/26119
-#EXTINF:-1 tvg-id="YSAU" tvg-name="VIP IL: YES Cinema HD" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",VIP IL: YES Cinema HD
+#EXTINF:-1 tvg-id="YSAU" tvg-name="yes ישראלי" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Live: Hebrew",yes ישראלי
 http://livegopanel.club:8080/ido7638/@ido99999/16522
 #EXTINF:-1 tvg-id="hot3.il" tvg-name="VIP IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Live: Hebrew",VIP IL: HOT 3 HD
 http://livegopanel.club:8080/ido7638/@ido99999/6106
