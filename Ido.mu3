@@ -83,11 +83,11 @@ http://livegopanel.club:8080/ido7638/@ido99999/22315
 http://livegopanel.club:8080/ido7638/@ido99999/12823
 #EXTINF:-1 tvg-id="MU03" tvg-name="Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Live: Hebrew",Sport 5 Gold
 http://livegopanel.club:8080/ido7638/@ido99999/11725
-#EXTINF:-1 tvg-id="FoxSport.il" tvg-name="VIP IL: Fox Sport HD" tvg-logo="https://static.epg.best/il/FoxSport.il.png" group-title="Live: Hebrew",VIP IL: Fox Sport HD
+#EXTINF:-1 tvg-id="FoxSport.il" tvg-name="Fox Sport HD" tvg-logo="https://static.epg.best/il/FoxSport.il.png" group-title="Live: Hebrew",Fox Sport HD
 http://livegopanel.club:8080/ido7638/@ido99999/3341
-#EXTINF:-1 tvg-id="PT39" tvg-name="VIP IL: Eurosport 1 HD" tvg-logo="https://i.ibb.co/3RjRNC3/eurosport1.jpg" group-title="Live: Hebrew",VIP IL: Eurosport 1 HD
+#EXTINF:-1 tvg-id="PT39" tvg-name="Eurosport 1 HD" tvg-logo="https://i.ibb.co/3RjRNC3/eurosport1.jpg" group-title="Live: Hebrew",Eurosport 1 HD
 http://livegopanel.club:8080/ido7638/@ido99999/19377
-#EXTINF:-1 tvg-id="PT39" tvg-name="VIP IL: Eurosport 2 HD" tvg-logo="https://i.ibb.co/558qRwF/eurosport2.jpg" group-title="Live: Hebrew",VIP IL: Eurosport 2 HD
+#EXTINF:-1 tvg-id="PT39" tvg-name="Eurosport 2 HD" tvg-logo="https://i.ibb.co/558qRwF/eurosport2.jpg" group-title="Live: Hebrew",Eurosport 2 HD
 http://livegopanel.club:8080/ido7638/@ido99999/19379
 #EXTINF:-1 tvg-id="TraceSport.il" tvg-name="VIP IL: Trace Spôrt Stars" tvg-logo="https://i.ibb.co/yN3z9Wj/tracesportstars.png" group-title="Live: Hebrew",VIP IL: Trace Spôrt Stars
 http://livegopanel.club:8080/ido7638/@ido99999/63091
