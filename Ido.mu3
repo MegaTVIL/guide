@@ -117,8 +117,6 @@ http://livegopanel.club:8080/ido7638/@ido99999/45721
 http://livegopanel.club:8080/ido7638/@ido99999/16513
 #EXTINF:-1 tvg-id="YSA2" tvg-name="YES Movies Action HD" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Live: Hebrew",YES Movies Action HD
 http://livegopanel.club:8080/ido7638/@ido99999/25829
-#EXTINF:-1 tvg-id="YSA4" tvg-name="YES Movies Kids FHD" tvg-logo="https://i.ibb.co/VVjzmJ6/yes-MOVIESKIDS.jpg" group-title="Live: Hebrew",YES Movies Kids FHD
-http://livegopanel.club:8080/ido7638/@ido99999/45718
 #EXTINF:-1 tvg-id="YSA1" tvg-name="YES Movies Drama FHD" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",YES Movies Drama FHD
 http://livegopanel.club:8080/ido7638/@ido99999/45719
 #EXTINF:-1 tvg-id="YSA1" tvg-name="YES Movies Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Live: Hebrew",YES Movies Drama HD [Multi-Sub]
@@ -131,6 +129,8 @@ http://livegopanel.club:8080/ido7638/@ido99999/45720
 http://livegopanel.club:8080/ido7638/@ido99999/16515
 #EXTINF:-1 tvg-id="YSA3" tvg-name="YES Movies Comedy HD" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="Live: Hebrew",YES Movies Comedy HD
 http://livegopanel.club:8080/ido7638/@ido99999/25831
+#EXTINF:-1 tvg-id="YSA4" tvg-name="YES Movies Kids FHD" tvg-logo="https://i.ibb.co/VVjzmJ6/yes-MOVIESKIDS.jpg" group-title="Live: Hebrew",YES Movies Kids FHD
+http://livegopanel.club:8080/ido7638/@ido99999/45718
 #EXTINF:-1 tvg-id="YSAT" tvg-name="YES Docu FHD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",YES Docu FHD
 http://livegopanel.club:8080/ido7638/@ido99999/25832
 #EXTINF:-1 tvg-id="YSAT" tvg-name="yes HD דוקו" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Live: Hebrew",yes HD דוקו
