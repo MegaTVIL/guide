@@ -9,7 +9,7 @@ http://livegopanel.club:8080/ido7638/@ido99999/3298
 http://livegopanel.club:8080/ido7638/@ido99999/40334
 #EXTINF:-1 tvg-id="TV50" tvg-name="ערוץ 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Live: Hebrew",ערוץ 9
 http://livegopanel.club:8080/ido7638/@ido99999/6105
-#EXTINF:-1 tvg-id="CH34"
+#EXTINF:-1 tvg-id="CH34" tvg-name="VIP IL: Channel 12 FHD" tvg-logo="tsetkeshet.png" group-title="Live: Hebrew",VIP IL: Channel 12 FHD
 http://livegopanel.club:8080/ido7638/@ido99999/19374
 #EXTINF:-1 tvg-id="CH34" tvg-name="ערוץ 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Live: Hebrew",ערוץ 12 HD
 http://livegopanel.club:8080/ido7638/@ido99999/16272
